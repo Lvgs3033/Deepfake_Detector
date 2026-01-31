@@ -2,6 +2,8 @@
 
 A modern **AI-powered Deepfake Detection system** that classifies images as **Real** or **Deepfake** using **Deep Learning** and provides an **interactive, animated Streamlit frontend**.
 
+Dataset : https://www.kaggle.com/datasets/saurabhbagchi/deepfake-image-detection
+
 This project is ideal for:
 - 🎓 Academic / college projects
 - 🧪 Deep learning experimentation
